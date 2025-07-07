@@ -28,7 +28,6 @@
 - **Языки программирования:** Python (pandas, numpy, matplotlib, seaborn)
 - **Базы данных:** SQL (PostgreSQL)
 - **Фреймворки и методологии:** когортный анализ, product/market fit, ICE
-- **BI-инструменты:** Datalens
 
 ---
 
